@@ -8,3 +8,5 @@ I did a get add
 I did a git commit 
 I did a git push
 I went to get and made the site live on the web
+<img src="Screen Shot 2021-02-03 at 2.25.35 PM">
+<img src="Screen Shot 2021-02-03 at 2.25.39 PM">
